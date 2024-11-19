@@ -1,0 +1,20 @@
+{
+  "name": "thank-you-tweet-button-001",
+  "version": "1.0.0",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/windchaserthink/thank-you-tweet-button-001.git"
+  },
+  "bugs": {
+    "url": "https://github.com/windchaserthink/thank-you-tweet-button-001/issue",
+    "email": "windchaserthink@gmail.com"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

@@ -2,6 +2,7 @@
   "name": "thank-you-tweet-button-001",
   "version": "1.0.0",
   "type": "module",
+  "main": "dist/components/TweetButton.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/windchaserthink/thank-you-tweet-button-001.git"
@@ -10,7 +11,6 @@
     "url": "https://github.com/windchaserthink/thank-you-tweet-button-001/issue",
     "email": "windchaserthink@gmail.com"
   },
-  "main": "index.js",
   "scripts": {
     "test": "jest",
     "build": "rm -rf dist && babel src -d dist --ignore src/**/*.test.jsx && npm run copy-files",

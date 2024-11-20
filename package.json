@@ -1,6 +1,7 @@
 {
   "name": "thank-you-tweet-button-001",
   "version": "1.0.0",
+  "type": "module",
   "repository": {
     "type": "git",
     "url": "https://github.com/windchaserthink/thank-you-tweet-button-001.git"
